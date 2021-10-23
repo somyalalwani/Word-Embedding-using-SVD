@@ -1,4 +1,4 @@
-## Question1_SVD
+## Question1_SVD : Implement a Word embedding model and train your own word vectors using Co-Occurrence Matrix by applying Singular Value Decomposition (SVD).
 - filename : 2020201092_NLP_Q1
 - embeddings : weight_matrix_q1.pkl- https://drive.google.com/file/d/1QZWKZrN2r9Ey78pSm4LPhQSOgAPBKyI1/view?usp=sharing
 
